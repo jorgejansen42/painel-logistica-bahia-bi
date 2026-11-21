@@ -1,0 +1,29 @@
+name: Boletim Diario Rodovias Bahia
+
+on:
+  schedule:
+    # 09:30 UTC corresponde exatamente a 06:30 no horário da Bahia / Brasília (UTC-3)
+    - cron: '30 9 * * *'
+  workflow_dispatch: # Permite rodar manualmente com 1 clique sempre que quiser testar
+
+jobs:
+  enviar-boletim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar bibliotecas necessárias
+        run: pip install google-genai requests beautifulsoup4 lxml python-dotenv
+
+      - name: Executar boletim de rodovias
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python boletim_frota.py
