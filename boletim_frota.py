@@ -86,7 +86,7 @@ def gerar_boletim_rodovias() -> str:
     - Liste apenas trechos interditados ou em meia pista mencionados. Se não houver, escreva: "Sem bloqueios totais registrados nas últimas 24h."
 
     🟡 *PONTOS DE ATENÇÃO E RETENÇÕES (BRs e BAs):*
-    - Destaque obras, erosões, passagens molhadas, tráfego intenso ou fiscalização (BR-324, BR-116, BR-101, BR-242, BA-093, BA-099). Seja telegráfico.
+    - Destaque obras, erosões, passagens molhadas, cidades em alerta, entrocamentos em alerta ou com restrições, tráfego intenso ou fiscalização (BR-324, BR-116, BR-101, BR-242, BA-093, BA-099). Seja telegráfico.
 
     ⛈️ *CLIMA E RISCO NA PISTA (PRÓXIMAS 48H):*
     - Resumo objetivo das regiões com alerta de chuva forte, enxurrada ou vento para caminhões baú/sider.
