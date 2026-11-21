@@ -2,9 +2,9 @@ name: Boletim Diario Rodovias Bahia
 
 on:
   schedule:
-    # 09:30 UTC corresponde exatamente a 06:30 no horário da Bahia / Brasília (UTC-3)
-    - cron: '30 9 * * *'
-  workflow_dispatch: # Permite rodar manualmente com 1 clique sempre que quiser testar
+    # 09:00 UTC até 23:00 UTC = 06:00 às 20:00 no horário da Bahia (UTC-3)
+    - cron: '0 9-23 * * *'
+  workflow_dispatch:
 
 jobs:
   enviar-boletim:
@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar bibliotecas necessárias
-        run: pip install google-genai requests beautifulsoup4 lxml python-dotenv
+        run: pip install google-genai requests beautifulsoup4 lxml python-dotenv tzdata
 
       - name: Executar boletim de rodovias
         env:
