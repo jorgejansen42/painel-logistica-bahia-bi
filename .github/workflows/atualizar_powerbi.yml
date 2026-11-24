@@ -1,0 +1,37 @@
+name: Atualizar JSON Power BI Bahia (07h as 17h)
+
+on:
+  schedule:
+    # 10:00 UTC até 20:00 UTC = 07:00 às 17:00 no horário da Bahia (UTC-3)
+    - cron: '0 10-20 * * *'
+  workflow_dispatch: # Permite rodar manualmente para testar agora
+
+jobs:
+  gerar-json-powerbi:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que o robô salve o JSON atualizado no repositório
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar bibliotecas
+        run: pip install google-genai requests beautifulsoup4 lxml python-dotenv tzdata
+
+      - name: Gerar JSON atualizado
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gerar_dados_powerbi.py
+
+      - name: Salvar dados_powerbi_atual.json no repositório
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add dados_powerbi_atual.json
+          git commit -m "Atualiza dados_powerbi_atual.json" || exit 0
+          git push
