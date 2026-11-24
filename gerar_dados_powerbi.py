@@ -15,8 +15,6 @@ from google.genai import types
 pasta_script = Path(__file__).resolve().parent
 load_dotenv(dotenv_path=pasta_script / ".env")
 
-pasta_documentos = Path.home() / "Documents" / "monitor_rodovias_ba"
-pasta_documentos.mkdir(parents=True, exist_ok=True)
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
@@ -265,17 +263,12 @@ def gerar_json_powerbi(clima_cidades: list, noticias_brutas: str) -> dict:
 
 
 def salvar_arquivos_json(payload_completo: dict):
-    """Salva o JSON na raiz do repositório (GitHub) e na pasta Documentos (PC local)."""
+    """Salva o JSON apenas na pasta do projeto (01_Projetos/monitor-rodovias-ba)."""
     arquivo_repo = pasta_script / "dados_powerbi_atual.json"
     with open(arquivo_repo, "w", encoding="utf-8") as f:
         json.dump(payload_completo, f, ensure_ascii=False, indent=2)
 
-    arquivo_docs = pasta_documentos / "dados_powerbi_atual.json"
-    with open(arquivo_docs, "w", encoding="utf-8") as f:
-        json.dump(payload_completo, f, ensure_ascii=False, indent=2)
-
     print(f"JSON atualizado com sucesso às {payload_completo.get('data_atualizacao')}.")
-
 
 if __name__ == "__main__":
     clima_atual = buscar_temperaturas_bahia()
