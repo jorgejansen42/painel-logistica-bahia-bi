@@ -1,5 +1,5 @@
 {
-  "data_atualizacao": "25/11/2026 15:49",
+  "data_atualizacao": "25/11/2026 16:54",
   "cidades_mapa_calor": [
     {
       "cidade": "Salvador",
@@ -7,12 +7,12 @@
       "territorio_identidade": "Metropolitano de Salvador",
       "latitude": -12.9714,
       "longitude": -38.5014,
-      "temperatura_c": 28.5,
+      "temperatura_c": 27.6,
       "chuva_mm": 0.0,
-      "vento_kmh": 20.9,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 21.0,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324 / BA-099",
-      "resumo_cartao_cidade": "Ventos moderados a fortes na costa (20.9 km/h). Tráfego intenso nas saídas pela BR-324 e fluxo normal na BA-099."
+      "resumo_cartao_cidade": "Tempo firme no Metropolitano de Salvador. Tráfego urbano moderado nos acessos via BR-324 e vento forte na orla."
     },
     {
       "cidade": "Feira de Santana",
@@ -20,12 +20,12 @@
       "territorio_identidade": "Portal do Sertão",
       "latitude": -12.2664,
       "longitude": -38.9663,
-      "temperatura_c": 32.8,
+      "temperatura_c": 31.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.9,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 10.7,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324 / BR-116 / BR-101",
-      "resumo_cartao_cidade": "Elevada temperatura (32.8°C). Tronco rodoviário com alto volume de cargas nas intersecções da BR-116 e BR-324."
+      "resumo_cartao_cidade": "Clima quente e seco no Portal do Sertão. Trevo logístico com fluxo intenso nas entroncamentos das BRs 324 e 116."
     },
     {
       "cidade": "Serrinha",
@@ -33,12 +33,12 @@
       "territorio_identidade": "Território do Sisal",
       "latitude": -11.6642,
       "longitude": -39.0075,
-      "temperatura_c": 33.1,
+      "temperatura_c": 31.2,
       "chuva_mm": 0.0,
-      "vento_kmh": 18.3,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 20.7,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BA-409",
-      "resumo_cartao_cidade": "Tempo quente e seco (33.1°C) com ventos de 18.3 km/h. Tráfego fluindo sem retenções na BR-116."
+      "resumo_cartao_cidade": "Sem ocorrências meteorológicas no Território do Sisal. Rajadas moderadas de vento na BR-116 exige atenção para carga alta."
     },
     {
       "cidade": "Juazeiro",
@@ -46,12 +46,12 @@
       "territorio_identidade": "Sertão do São Francisco",
       "latitude": -9.4167,
       "longitude": -40.5033,
-      "temperatura_c": 36.8,
+      "temperatura_c": 35.9,
       "chuva_mm": 0.0,
-      "vento_kmh": 14.4,
-      "nivel_risco": "Crítico",
+      "vento_kmh": 12.4,
+      "nivel_risco": "Atenção",
       "rodovia_eixo": "BR-407 / BR-235",
-      "resumo_cartao_cidade": "Alerta de calor extremo (36.8°C). Risco de estresse térmico em pneus e motores na BR-407."
+      "resumo_cartao_cidade": "Calor extremo de 35.9°C no Sertão do São Francisco. Alerta térmico para calibragem e sistemas de arrefecimento da frota."
     },
     {
       "cidade": "Barreiras",
@@ -59,12 +59,12 @@
       "territorio_identidade": "Bacia do Rio Grande",
       "latitude": -12.1439,
       "longitude": -44.9969,
-      "temperatura_c": 31.8,
+      "temperatura_c": 31.1,
       "chuva_mm": 0.0,
-      "vento_kmh": 10.2,
+      "vento_kmh": 8.5,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242 / BR-135",
-      "resumo_cartao_cidade": "Condições estáveis no Oeste baiano. Trânsito de rodotrens intenso porém sem interrupções na BR-242."
+      "resumo_cartao_cidade": "Operação regular no polo agrícola do Oeste Baiano. Pistas secas e visibilidade total ao longo da BR-242."
     },
     {
       "cidade": "Bom Jesus da Lapa",
@@ -72,12 +72,12 @@
       "territorio_identidade": "Velho Chico (Médio São Francisco)",
       "latitude": -13.255,
       "longitude": -43.4181,
-      "temperatura_c": 32.5,
+      "temperatura_c": 31.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 4.0,
+      "vento_kmh": 5.8,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-349 / BA-160",
-      "resumo_cartao_cidade": "Tempo seco e ventos fracos (4 km/h). Ponte sobre o Rio São Francisco na BR-349 operando com fluxo livre."
+      "resumo_cartao_cidade": "Condições estáveis no Velho Chico. Tráfego de veículos pesados fluindo normalmente na ponte sobre o Rio São Francisco."
     },
     {
       "cidade": "Seabra",
@@ -85,12 +85,12 @@
       "territorio_identidade": "Chapada Diamantina",
       "latitude": -12.4186,
       "longitude": -41.7719,
-      "temperatura_c": 29.3,
+      "temperatura_c": 28.0,
       "chuva_mm": 0.0,
-      "vento_kmh": 12.8,
+      "vento_kmh": 13.0,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242",
-      "resumo_cartao_cidade": "Temperatura amena na Chapada Diamantina (29.3°C). Tráfego de longa distância na BR-242 sem anormalidades."
+      "resumo_cartao_cidade": "Clima ameno na Chapada Diamantina. Requer atenção contínua em aclives e trechos sinuosos da BR-242."
     },
     {
       "cidade": "Vitória da Conquista",
@@ -98,12 +98,12 @@
       "territorio_identidade": "Sudoeste Baiano",
       "latitude": -14.8619,
       "longitude": -40.8442,
-      "temperatura_c": 28.2,
+      "temperatura_c": 26.8,
       "chuva_mm": 0.0,
       "vento_kmh": 12.1,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BA-262",
-      "resumo_cartao_cidade": "Clima favorável à operação logística (28.2°C). Anel Viário e trechos da BR-116 com tráfego pesado regular."
+      "resumo_cartao_cidade": "Temperatura amena de 26.8°C no Planalto da Conquista. Trânsito sem retenções no anel rodoviário da BR-116."
     },
     {
       "cidade": "Valença",
@@ -111,12 +111,12 @@
       "territorio_identidade": "Costa do Dendê",
       "latitude": -13.3703,
       "longitude": -39.0731,
-      "temperatura_c": 29.1,
+      "temperatura_c": 27.9,
       "chuva_mm": 0.0,
-      "vento_kmh": 13.5,
+      "vento_kmh": 12.3,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BA-001 / BR-101",
-      "resumo_cartao_cidade": "Sem ocorrências meteorológicas adversas. Acesso costeiro pela BA-001 operando normalmente."
+      "resumo_cartao_cidade": "Pistas secas e boas condições de rodagem na Costa do Dendê. Acesso intermodal com balsas em tráfego normal."
     },
     {
       "cidade": "Ilhéus",
@@ -124,12 +124,12 @@
       "territorio_identidade": "Litoral Sul (Costa do Cacau)",
       "latitude": -14.7935,
       "longitude": -39.0464,
-      "temperatura_c": 27.9,
+      "temperatura_c": 27.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 15.8,
+      "vento_kmh": 13.1,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-415 / BA-001",
-      "resumo_cartao_cidade": "Temperatura agradável no litoral sul. Corredor BR-415 (Ilhéus-Itabuna) com fluxo contínuo."
+      "resumo_cartao_cidade": "Tempo limpo no Litoral Sul. Fluidez mantida na duplicação Ilhéus-Itabuna (BR-415)."
     },
     {
       "cidade": "Porto Seguro",
@@ -137,12 +137,12 @@
       "territorio_identidade": "Costa do Descobrimento",
       "latitude": -16.4435,
       "longitude": -39.0643,
-      "temperatura_c": 28.1,
+      "temperatura_c": 27.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 25.1,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 21.9,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-367 / BR-101",
-      "resumo_cartao_cidade": "Ventos fortes no trecho litorâneo (25.1 km/h). Requer cuidado adicional em veículos de alta lateral na BR-367."
+      "resumo_cartao_cidade": "Ventos fortes de 21.9 km/h na Costa do Descobrimento. Tráfego urbano-turístico denso no trecho urbano da BR-367."
     },
     {
       "cidade": "Teixeira de Freitas",
@@ -150,12 +150,12 @@
       "territorio_identidade": "Extremo Sul",
       "latitude": -17.5399,
       "longitude": -39.7419,
-      "temperatura_c": 32.7,
+      "temperatura_c": 29.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 15.2,
+      "vento_kmh": 18.7,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BA-290",
-      "resumo_cartao_cidade": "Tempo seco e quente no extremo sul. Trânsito fluindo no entroncamento da BR-101 com a BA-290."
+      "resumo_cartao_cidade": "Divisa com o Espírito Santo operando normalmente. Fluxo expressivo de bi-trens de eucalipto na BR-101."
     },
     {
       "cidade": "Camaçari",
@@ -163,12 +163,12 @@
       "territorio_identidade": "Metropolitano de Salvador",
       "latitude": -12.6996,
       "longitude": -38.3263,
-      "temperatura_c": 29.7,
+      "temperatura_c": 28.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 17.3,
+      "vento_kmh": 16.0,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BA-093 / BA-099",
-      "resumo_cartao_cidade": "Polo Industrial com tráfego intenso de carretas na BA-093. Clima estável e sem precipitação."
+      "resumo_cartao_cidade": "Polo Industrial de Camaçari com logística em pleno funcionamento. Fluxo pesado na BA-093 sem retenções severas."
     },
     {
       "cidade": "Alagoinhas",
@@ -176,12 +176,12 @@
       "territorio_identidade": "Litoral Norte e Agreste Baiano",
       "latitude": -12.1336,
       "longitude": -38.4192,
-      "temperatura_c": 31.5,
+      "temperatura_c": 30.1,
       "chuva_mm": 0.0,
-      "vento_kmh": 15.7,
+      "vento_kmh": 16.8,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BR-110",
-      "resumo_cartao_cidade": "Operação logística normal no entroncamento ferroviário-rodoviário. Pista seca na BR-101."
+      "resumo_cartao_cidade": "Operação logística regular no Agreste Baiano. Sem interferências climáticas no entroncamento BR-101 / BR-110."
     },
     {
       "cidade": "Santo Antônio de Jesus",
@@ -189,12 +189,12 @@
       "territorio_identidade": "Recôncavo",
       "latitude": -12.9689,
       "longitude": -39.2614,
-      "temperatura_c": 30.1,
+      "temperatura_c": 28.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 14.2,
+      "vento_kmh": 15.0,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BA-046",
-      "resumo_cartao_cidade": "Tráfego comercial moderado no Recôncavo. Condições meteorológicas favoráveis ao transporte."
+      "resumo_cartao_cidade": "Polo comercial do Recôncavo com boas condições de tráfego. Pistas secas ao longo da BR-101."
     },
     {
       "cidade": "Jequié",
@@ -202,12 +202,12 @@
       "territorio_identidade": "Médio Rio de Contas",
       "latitude": -13.8578,
       "longitude": -40.0836,
-      "temperatura_c": 33.7,
+      "temperatura_c": 30.9,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.0,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 15.3,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BR-330",
-      "resumo_cartao_cidade": "Temperatura elevada (33.7°C). Tráfego intenso de veículos pesados na Serra do Mutum / BR-116."
+      "resumo_cartao_cidade": "Calor de 30.9°C no Médio Rio de Contas. Tráfego intenso de caminhões no trecho de aclive da BR-116 (Serra do Mutum)."
     },
     {
       "cidade": "Itabuna",
@@ -215,12 +215,12 @@
       "territorio_identidade": "Litoral Sul (Costa do Cacau)",
       "latitude": -14.7876,
       "longitude": -39.2781,
-      "temperatura_c": 29.2,
+      "temperatura_c": 27.9,
       "chuva_mm": 0.0,
       "vento_kmh": 14.8,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BR-415",
-      "resumo_cartao_cidade": "Fluxo urbano e de passagem constante no cruzamento BR-101 x BR-415. Clima estável."
+      "resumo_cartao_cidade": "Sem adversidades meteorológicas em Itabuna. Trânsito urbano-rodoviário sob controle na interseção da BR-101."
     },
     {
       "cidade": "Eunápolis",
@@ -228,12 +228,12 @@
       "territorio_identidade": "Costa do Descobrimento",
       "latitude": -16.3716,
       "longitude": -39.5821,
-      "temperatura_c": 33.1,
+      "temperatura_c": 30.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.6,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 20.0,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BR-367",
-      "resumo_cartao_cidade": "Temperatura alta (33.1°C). Tráfego pesado de madeira e eucalipto na BR-101 requer atenção."
+      "resumo_cartao_cidade": "Ventos fortes e tempo seco na Costa do Descobrimento. Atenção para a bifurcação de cargas com destino a Porto Seguro."
     },
     {
       "cidade": "Luís Eduardo Magalhães",
@@ -241,12 +241,12 @@
       "territorio_identidade": "Bacia do Rio Grande",
       "latitude": -12.0967,
       "longitude": -45.7867,
-      "temperatura_c": 29.6,
+      "temperatura_c": 29.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 13.7,
+      "vento_kmh": 9.4,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242 / BR-020",
-      "resumo_cartao_cidade": "Polo do agronegócio com movimentação intensa de grãos na BR-020/242. Condições operacionais normais."
+      "resumo_cartao_cidade": "Polo do agronegócio no Oeste com trânsito de máquinas e bitrens. Visibilidade perfeita e sem chuva."
     },
     {
       "cidade": "Guanambi",
@@ -254,12 +254,12 @@
       "territorio_identidade": "Sertão Produtivo",
       "latitude": -14.2233,
       "longitude": -42.7814,
-      "temperatura_c": 32.0,
+      "temperatura_c": 30.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 8.5,
+      "vento_kmh": 8.7,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-030 / BR-122",
-      "resumo_cartao_cidade": "Ventos fracos (8.5 km/h) e calor moderado. Trânsito calmo na BR-030 e acessos estaduais."
+      "resumo_cartao_cidade": "Tempo quente e ventos fracos no Sertão Produtivo. Rodovias BR-030 e BR-122 com trafegabilidade normal."
     },
     {
       "cidade": "Jacobina",
@@ -267,12 +267,12 @@
       "territorio_identidade": "Piemonte da Diamantina",
       "latitude": -11.1806,
       "longitude": -40.5183,
-      "temperatura_c": 32.2,
+      "temperatura_c": 30.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.3,
+      "vento_kmh": 10.3,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324",
-      "resumo_cartao_cidade": "Relevo montanhoso com tráfego normal de mineração. Pista seca na BR-324 Norte."
+      "resumo_cartao_cidade": "Trecho de serra no Piemonte da Diamantina sem ocorrências climáticas. Tráfego de mineração em fluxo habitual."
     },
     {
       "cidade": "Senhor do Bonfim",
@@ -280,12 +280,12 @@
       "territorio_identidade": "Piemonte Norte do Itapicuru",
       "latitude": -10.4614,
       "longitude": -40.1894,
-      "temperatura_c": 33.2,
+      "temperatura_c": 31.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 17.7,
-      "nivel_risco": "Atenção",
+      "vento_kmh": 17.0,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-407",
-      "resumo_cartao_cidade": "Temperatura em elevação (33.2°C). Trecho da BR-407 sem anomalias graves de tráfego."
+      "resumo_cartao_cidade": "Clima seco e ventos moderados na BR-407. Operação normal para composições longas rumo a Juazeiro."
     },
     {
       "cidade": "Irecê",
@@ -293,12 +293,12 @@
       "territorio_identidade": "Irecê",
       "latitude": -11.3042,
       "longitude": -41.8558,
-      "temperatura_c": 32.7,
+      "temperatura_c": 31.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 12.3,
+      "vento_kmh": 15.9,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BA-052",
-      "resumo_cartao_cidade": "Estrada do Feijão (BA-052) fluindo bem. Pista seca e boa visibilidade em todo o platô."
+      "resumo_cartao_cidade": "Estrada do Feijão (BA-052) com tráfego livre e boa visibilidade. Temperaturas elevadas na região agrícola."
     },
     {
       "cidade": "Paulo Afonso",
@@ -306,158 +306,159 @@
       "territorio_identidade": "Itaparica",
       "latitude": -9.4061,
       "longitude": -38.2219,
-      "temperatura_c": 35.4,
+      "temperatura_c": 34.4,
       "chuva_mm": 0.0,
-      "vento_kmh": 14.0,
+      "vento_kmh": 13.6,
       "nivel_risco": "Atenção",
       "rodovia_eixo": "BR-110 / BA-210",
-      "resumo_cartao_cidade": "Calor acentuado (35.4°C). Monitorar temperatura dos pneus na BR-110 no acesso ao divisa SE/AL."
+      "resumo_cartao_cidade": "Temperatura elevada de 34.4°C no Território Itaparica. Alerta térmico para monitoramento de frotas e pneus."
     }
   ],
   "detalhamento_rodovias": [
     {
       "rodovia": "BR-324",
       "territorio_identidade": "Metropolitano de Salvador",
-      "trecho_cidade": "Salvador - Camaçari",
+      "trecho_cidade": "Salvador - Simões Filho",
       "categoria": "Tráfego Intenso",
       "severidade": "Média",
-      "situacao_detalhada": "Lentidão acentuada na saída da capital devido ao alto volume de veículos leves e comerciais no horário de pico vespertino.",
-      "diretriz_motorista": "Manter distância de segurança e antecipar trocas de faixa; prever acréscimo de 20 min no tempo de viagem."
+      "situacao_detalhada": "Lentidão pontual na saída da capital devido ao fluxo de veículos de carga e passageiros nos trechos urbanos.",
+      "diretriz_motorista": "Manter distância de segurança e priorizar deslocamentos fora dos horários de pico (17h-19h)."
     },
     {
       "rodovia": "BR-324",
       "territorio_identidade": "Portal do Sertão",
-      "trecho_cidade": "Feira de Santana - Tanquinho",
+      "trecho_cidade": "Amélia Rodrigues - Feira de Santana",
       "categoria": "Obra",
       "severidade": "Média",
-      "situacao_detalhada": "Serviços de recapeamento asfáltico no km 510 com interdição parcial de uma das faixas sentido Norte.",
-      "diretriz_motorista": "Reduzir velocidade para 40 km/h ao aproximar-se da sinalização de obras e respeitar os operadores de tráfego."
+      "situacao_detalhada": "Manutenção preventiva no pavimento na faixa da direita com estreitamento pontual da pista.",
+      "diretriz_motorista": "Reduzir velocidade e respeitar a sinalização das equipes de sinalização da concessionária."
     },
     {
       "rodovia": "BR-116",
       "territorio_identidade": "Portal do Sertão",
-      "trecho_cidade": "Feira de Santana - Serrinha",
+      "trecho_cidade": "Feira de Santana - Santo Estêvão",
       "categoria": "Fiscalização",
       "severidade": "Baixa",
-      "situacao_detalhada": "Operação de fiscalização pesada e checagem de tacógrafo pela PRF no posto fixo de Feira de Santana.",
-      "diretriz_motorista": "Organizar documentação da carga e do veículo previamente para agilizar eventual abordagem fiscal."
+      "situacao_detalhada": "Pontos de fiscalização da PRF ativos com foco em cronotacógrafo e estado de conservação dos pneus.",
+      "diretriz_motorista": "Garantir documentação em dia e portar comprovantes de descansos obrigatórios regulamentados."
+    },
+    {
+      "rodovia": "BR-116",
+      "territorio_identidade": "Médio Rio de Contas",
+      "trecho_cidade": "Jequié - Poções (Serra do Mutum)",
+      "categoria": "Tráfego Intenso",
+      "severidade": "Média",
+      "situacao_detalhada": "Trecho de aclive acentuado com tráfego lento de veículos pesados em terceira faixa.",
+      "diretriz_motorista": "Evitar ultrapassagens arriscadas e monitorar temperatura dos freios na descida."
     },
     {
       "rodovia": "BR-116",
       "territorio_identidade": "Sudoeste Baiano",
-      "trecho_cidade": "Vitória da Conquista - Poções",
-      "categoria": "Tráfego Intenso",
-      "severidade": "Média",
-      "situacao_detalhada": "Fluxo denso de carretas bimotrens na aclive da Serra do Marçal e trechos de ultrapassagem proibida.",
-      "diretriz_motorista": "Evitar ultrapassagens forçadas em trechos de serra e manter marcha reduzida em aclives acentuados."
+      "trecho_cidade": "Planalto - Vitória da Conquista",
+      "categoria": "Clima",
+      "severidade": "Baixa",
+      "situacao_detalhada": "Pistas completamente secas, mas com incidência de vento lateral no planalto ao fim da tarde.",
+      "diretriz_motorista": "Segurar firme o volante ao ultrapassar composições de carga de grande porte."
     },
     {
       "rodovia": "BR-101",
-      "territorio_identidade": "Extremo Sul",
-      "trecho_cidade": "Eunápolis - Teixeira de Freitas",
+      "territorio_identidade": "Recôncavo",
+      "trecho_cidade": "Governador Mangabeira - Santo Antônio de Jesus",
       "categoria": "Obra",
       "severidade": "Média",
-      "situacao_detalhada": "Manutenção preventiva de pontes e acostamento no km 820. Sistema Pare e Siga operando intermitentemente.",
-      "diretriz_motorista": "Programar parada de descanso antes do trecho para evitar retenções com motor ligado sob alta temperatura."
+      "situacao_detalhada": "Serviços de roçagem de acostamento e reparo de sarjetas com interrupções temporárias na faixa de acostamento.",
+      "diretriz_motorista": "Atentar para presença de homens e máquinas às margens da rodovia."
     },
     {
       "rodovia": "BR-101",
-      "territorio_identidade": "Litoral Sul (Costa do Cacau)",
-      "trecho_cidade": "Itabuna - Ubaitaba",
-      "categoria": "Erosão",
+      "territorio_identidade": "Costa do Descobrimento",
+      "trecho_cidade": "Eunápolis - Itagimirim",
+      "categoria": "Tráfego Intenso",
       "severidade": "Média",
-      "situacao_detalhada": "Ponto de erosão contida no acostamento do km 495. Sinalização preventiva instalada pela concessionária.",
-      "diretriz_motorista": "Atenção ao trafegar próximo ao bordo da pista no sentido Norte; velocidade máxima recomendada de 60 km/h."
+      "situacao_detalhada": "Elevado volume de trânsito de tritrens de celulose trafegando em baixa velocidade.",
+      "diretriz_motorista": "Manter distância de seguimento ampliada de no mínimo 50 metros."
     },
     {
       "rodovia": "BR-242",
       "territorio_identidade": "Chapada Diamantina",
-      "trecho_cidade": "Seabra - Palmeiras",
-      "categoria": "Clima",
+      "trecho_cidade": "Lençóis - Seabra",
+      "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Rajadas dispersas de vento em trechos de vale com boa visibilidade e pista totalmente seca.",
-      "diretriz_motorista": "Manter ambas as mãos ao volante em carretas baú devido à eventual incidência de ventos de travessia."
+      "situacao_detalhada": "Trecho sinuoso em serra com fluxo constante de carretas de grãos oriundas do Oeste Baiano.",
+      "diretriz_motorista": "Utilizar freio motor nas descidas prolongadas e respeitar os limites de velocidade."
     },
     {
       "rodovia": "BR-242",
       "territorio_identidade": "Bacia do Rio Grande",
       "trecho_cidade": "Barreiras - Luís Eduardo Magalhães",
-      "categoria": "Tráfego Intenso",
-      "severidade": "Média",
-      "situacao_detalhada": "Forte circulação de bitrens agrícolas e máquinas pesadas cruzando a rodovia nos acessos às fazendas.",
-      "diretriz_motorista": "Redobrar a atenção nos acessos rurais e manter faróis acesos em todo o percurso."
+      "categoria": "Fiscalização",
+      "severidade": "Baixa",
+      "situacao_detalhada": "Operação de balança móvel e checagem de pesagem por eixo em andamento.",
+      "diretriz_motorista": "Adequar a carga ao limite legal por eixo para evitar retreinamento ou transbordo."
     },
     {
       "rodovia": "BR-407",
       "territorio_identidade": "Sertão do São Francisco",
-      "trecho_cidade": "Juazeiro - Senhor do Bonfim",
+      "trecho_cidade": "Senhor do Bonfim - Juazeiro",
       "categoria": "Clima",
       "severidade": "Média",
-      "situacao_detalhada": "Temperatura do pavimento acima de 50°C devido ao calor extremo de 36.8°C na região.",
-      "diretriz_motorista": "Checar calibragem e estado dos pneus antes de iniciar a travessia do trecho para evitar estouros."
+      "situacao_detalhada": "Calor intenso na pista ultrapassando 35.9°C, aumentando desgaste de pneus e consumo térmico.",
+      "diretriz_motorista": "Verificar pressão dos pneus nos pontos de apoio e monitorar indicador de temperatura da água."
     },
     {
       "rodovia": "BR-367",
       "territorio_identidade": "Costa do Descobrimento",
-      "trecho_cidade": "Porto Seguro - Eunápolis",
-      "categoria": "Clima",
+      "trecho_cidade": "Eunápolis - Porto Seguro",
+      "categoria": "Tráfego Intenso",
       "severidade": "Média",
-      "situacao_detalhada": "Ventos laterais costeiros de até 25.1 km/h impactando a estabilidade de veículos altos.",
-      "diretriz_motorista": "Adequar a velocidade para limites inferiores ao máximo permitido e reforçar a amarração da carga."
+      "situacao_detalhada": "Intenso trânsito urbano e turístico na aproximação com Porto Seguro, sem acostamento em vários trechos.",
+      "diretriz_motorista": "Reduzir velocidade e ter atenção redobrada com pedestres e ciclistas na via."
     },
     {
       "rodovia": "BR-349",
       "territorio_identidade": "Velho Chico (Médio São Francisco)",
       "trecho_cidade": "Bom Jesus da Lapa - São Félix do Coribe",
-      "categoria": "Passagem Molhada",
-      "severidade": "Baixa",
-      "situacao_detalhada": "Pistas limpas e secas na travessia sobre as cabeceiras fluviais; tráfego sem retenções.",
-      "diretriz_motorista": "Manter velocidade de cruzeiro segura na travessia da ponte sobre o Rio São Francisco."
+      "categoria": "Obra",
+      "severidade": "Média",
+      "situacao_detalhada": "Tapa-buracos pontual sendo executado no pavimento entre os km 70 e km 85.",
+      "diretriz_motorista": "Diminuir a velocidade ao observar placas de homens a trabalhar."
     },
     {
       "rodovia": "BR-030",
       "territorio_identidade": "Sertão Produtivo",
-      "trecho_cidade": "Guanambi - Brumado",
-      "categoria": "Obra",
+      "trecho_cidade": "Brumado - Guanambi",
+      "categoria": "Fiscalização",
       "severidade": "Baixa",
-      "situacao_detalhada": "Serviços de roçagem e limpeza de canaletas no acostamento sem interrupção de faixas de rolamento.",
-      "diretriz_motorista": "Atentar para presença de homens e máquinas trabalhando no acostamento."
+      "situacao_detalhada": "Ronda ostensiva da polícia rodoviária estadual/federal para coibir excesso de velocidade.",
+      "diretriz_motorista": "Manter-se estritamente dentro dos limites indicados nas sinalizações verticais."
     },
     {
       "rodovia": "BR-110",
       "territorio_identidade": "Itaparica",
-      "trecho_cidade": "Paulo Afonso - Jeremoabo",
+      "territorio_identidade_alt": "Itaparica",
+      "trecho_cidade": "Jeremoabo - Paulo Afonso",
       "categoria": "Clima",
       "severidade": "Média",
-      "situacao_detalhada": "Calor elevado (35.4°C) aumentando a exigência do sistema de arrefecimento dos veículos pesados.",
-      "diretriz_motorista": "Monitorar temperatura do líquido de arrefecimento do motor e nível de óleo nas paradas planejadas."
+      "situacao_detalhada": "Altas temperaturas ambientes (34.4°C) geram forte radiação e piso aquecido.",
+      "diretriz_motorista": "Fazer paradas técnicas para descanço do motorista e arrefecimento de componentes rodantes."
     },
     {
       "rodovia": "BA-001",
       "territorio_identidade": "Costa do Dendê",
-      "trecho_cidade": "Valença - Nazaré",
-      "categoria": "Obra",
-      "severidade": "Média",
-      "situacao_detalhada": "Tapa-buracos pontual no km 75 com trânsito desviado no sistema canalizado por cones.",
-      "diretriz_motorista": "Diminuir a velocidade ao observar sinalização amarela e evitar ultrapassagens no trecho urbano."
+      "trecho_cidade": "Nazaré - Valença",
+      "categoria": "Tráfego Intenso",
+      "severidade": "Baixa",
+      "situacao_detalhada": "Trânsito de veículos locais e distribuição regional de mercadorias fluindo sem retenções.",
+      "diretriz_motorista": "Atenção a curvas fechadas e acessos a povoados rurais ao longo da rodovia estatal."
     },
     {
       "rodovia": "BA-052",
       "territorio_identidade": "Irecê",
-      "trecho_cidade": "Irecê - Morro do Chapéu",
-      "categoria": "Fiscalização",
-      "severidade": "Baixa",
-      "situacao_detalhada": "Posto da Polícia Rodoviária Estadual realizando aferição de velocidade com radar móvel.",
-      "diretriz_motorista": "Respeitar rigorosamente o limite de velocidade de 80 km/h fixado para a via."
-    },
-    {
-      "rodovia": "BA-093",
-      "territorio_identidade": "Metropolitano de Salvador",
-      "trecho_cidade": "Camaçari - Simões Filho",
-      "categoria": "Tráfego Intenso",
+      "trecho_cidade": "Mundo Novo - Irecê (Estrada do Feijão)",
+      "categoria": "Obra",
       "severidade": "Média",
-      "situacao_detalhada": "Elevada concentração de veículos pesados acessando o Polo Industrial de Camaçari e praças de pedágio.",
-      "diretriz_motorista": "Utilizar faixas automáticas de pedágio para otimizar tempo e manter distância segura de caminhões tanque."
+      "situacao_detalhada": "Serviço de revitalização da sinalização horizontal (pintura de faixas) ao longo da via.",
+      "diretriz_motorista": "Evitar ultrapassagens sobre faixas amarelas recentes e respeitar os batedores do DER."
     }
   ]
 }
