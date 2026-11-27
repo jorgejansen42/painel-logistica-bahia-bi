@@ -1,5 +1,5 @@
 {
-  "data_atualizacao": "27/11/2026 08:55",
+  "data_atualizacao": "27/11/2026 10:12",
   "cidades_mapa_calor": [
     {
       "cidade": "Salvador",
@@ -7,12 +7,12 @@
       "territorio_identidade": "Metropolitano de Salvador",
       "latitude": -12.9714,
       "longitude": -38.5014,
-      "temperatura_c": 28.5,
+      "temperatura_c": 29.0,
       "chuva_mm": 0.0,
-      "vento_kmh": 13.0,
+      "vento_kmh": 13.9,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324 / BA-099",
-      "resumo_cartao_cidade": "Clima estável, tráfego intenso na saída da capital."
+      "resumo_cartao_cidade": "Clima estável, tráfego dentro da normalidade na RMS."
     },
     {
       "cidade": "Feira de Santana",
@@ -20,12 +20,12 @@
       "territorio_identidade": "Portal do Sertão",
       "latitude": -12.2664,
       "longitude": -38.9663,
-      "temperatura_c": 28.1,
+      "temperatura_c": 29.6,
       "chuva_mm": 0.0,
-      "vento_kmh": 9.2,
+      "vento_kmh": 8.1,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324 / BR-116 / BR-101",
-      "resumo_cartao_cidade": "Fluxo intenso de veículos pesados, condições climáticas favoráveis."
+      "resumo_cartao_cidade": "Fluxo intenso típico de entroncamento, condições climáticas favoráveis."
     },
     {
       "cidade": "Serrinha",
@@ -33,12 +33,12 @@
       "territorio_identidade": "Território do Sisal",
       "latitude": -11.6642,
       "longitude": -39.0075,
-      "temperatura_c": 28.4,
+      "temperatura_c": 30.6,
       "chuva_mm": 0.0,
-      "vento_kmh": 10.1,
+      "vento_kmh": 9.6,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BA-409",
-      "resumo_cartao_cidade": "Tráfego moderado, sem intercorrências climáticas."
+      "resumo_cartao_cidade": "Calor elevado, tráfego fluido sem intercorrências."
     },
     {
       "cidade": "Juazeiro",
@@ -46,12 +46,12 @@
       "territorio_identidade": "Sertão do São Francisco",
       "latitude": -9.4167,
       "longitude": -40.5033,
-      "temperatura_c": 29.5,
+      "temperatura_c": 31.6,
       "chuva_mm": 0.0,
-      "vento_kmh": 14.5,
+      "vento_kmh": 12.9,
       "nivel_risco": "Atenção",
       "rodovia_eixo": "BR-407 / BR-235",
-      "resumo_cartao_cidade": "Ventos fortes, atenção redobrada para veículos de carga alta."
+      "resumo_cartao_cidade": "Temperaturas altas exigem atenção com pneus e carga perecível."
     },
     {
       "cidade": "Barreiras",
@@ -59,12 +59,12 @@
       "territorio_identidade": "Bacia do Rio Grande",
       "latitude": -12.1439,
       "longitude": -44.9969,
-      "temperatura_c": 28.9,
+      "temperatura_c": 30.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 6.8,
+      "vento_kmh": 10.5,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242 / BR-135",
-      "resumo_cartao_cidade": "Condições operacionais estáveis no polo logístico."
+      "resumo_cartao_cidade": "Tráfego de escoamento agrícola normal, clima seco."
     },
     {
       "cidade": "Bom Jesus da Lapa",
@@ -72,12 +72,12 @@
       "territorio_identidade": "Velho Chico (Médio São Francisco)",
       "latitude": -13.255,
       "longitude": -43.4181,
-      "temperatura_c": 29.1,
+      "temperatura_c": 30.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 6.0,
+      "vento_kmh": 6.1,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-349 / BA-160",
-      "resumo_cartao_cidade": "Clima quente, tráfego dentro da normalidade."
+      "resumo_cartao_cidade": "Condições operacionais estáveis."
     },
     {
       "cidade": "Seabra",
@@ -85,12 +85,12 @@
       "territorio_identidade": "Chapada Diamantina",
       "latitude": -12.4186,
       "longitude": -41.7719,
-      "temperatura_c": 23.0,
+      "temperatura_c": 25.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 12.2,
+      "vento_kmh": 13.5,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242",
-      "resumo_cartao_cidade": "Temperatura amena, tráfego fluido na serra."
+      "resumo_cartao_cidade": "Temperatura amena, tráfego seguro na serra."
     },
     {
       "cidade": "Vitória da Conquista",
@@ -98,12 +98,12 @@
       "territorio_identidade": "Sudoeste Baiano",
       "latitude": -14.8619,
       "longitude": -40.8442,
-      "temperatura_c": 24.4,
+      "temperatura_c": 26.1,
       "chuva_mm": 0.0,
-      "vento_kmh": 8.5,
+      "vento_kmh": 8.6,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BA-262",
-      "resumo_cartao_cidade": "Fluxo intenso na BR-116, sem bloqueios."
+      "resumo_cartao_cidade": "Fluxo normal na BR-116, sem restrições climáticas."
     },
     {
       "cidade": "Valença",
@@ -111,12 +111,12 @@
       "territorio_identidade": "Costa do Dendê",
       "latitude": -13.3703,
       "longitude": -39.0731,
-      "temperatura_c": 29.1,
-      "chuva_mm": 0.0,
-      "vento_kmh": 10.1,
-      "nivel_risco": "Normal",
+      "temperatura_c": 29.8,
+      "chuva_mm": 0.1,
+      "vento_kmh": 8.8,
+      "nivel_risco": "Atenção",
       "rodovia_eixo": "BA-001 / BR-101",
-      "resumo_cartao_cidade": "Tráfego local moderado, clima estável."
+      "resumo_cartao_cidade": "Pista úmida por chuva leve, reduzir velocidade."
     },
     {
       "cidade": "Ilhéus",
@@ -124,12 +124,12 @@
       "territorio_identidade": "Litoral Sul (Costa do Cacau)",
       "latitude": -14.7935,
       "longitude": -39.0464,
-      "temperatura_c": 28.0,
+      "temperatura_c": 28.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 10.7,
+      "vento_kmh": 11.2,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-415 / BA-001",
-      "resumo_cartao_cidade": "Condições de tráfego normais, sem chuvas significativas."
+      "resumo_cartao_cidade": "Tráfego normal, condições de visibilidade boas."
     },
     {
       "cidade": "Porto Seguro",
@@ -137,12 +137,12 @@
       "territorio_identidade": "Costa do Descobrimento",
       "latitude": -16.4435,
       "longitude": -39.0643,
-      "temperatura_c": 27.4,
-      "chuva_mm": 0.1,
-      "vento_kmh": 7.9,
-      "nivel_risco": "Atenção",
+      "temperatura_c": 28.6,
+      "chuva_mm": 0.0,
+      "vento_kmh": 9.3,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-367 / BR-101",
-      "resumo_cartao_cidade": "Pista úmida, atenção redobrada na BR-367."
+      "resumo_cartao_cidade": "Fluxo turístico e logístico estável."
     },
     {
       "cidade": "Teixeira de Freitas",
@@ -150,12 +150,12 @@
       "territorio_identidade": "Extremo Sul",
       "latitude": -17.5399,
       "longitude": -39.7419,
-      "temperatura_c": 28.1,
+      "temperatura_c": 29.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 1.0,
+      "vento_kmh": 2.9,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BA-290",
-      "resumo_cartao_cidade": "Tráfego intenso de caminhões, clima estável."
+      "resumo_cartao_cidade": "Operações logísticas sem interrupções."
     },
     {
       "cidade": "Camaçari",
@@ -163,12 +163,12 @@
       "territorio_identidade": "Metropolitano de Salvador",
       "latitude": -12.6996,
       "longitude": -38.3263,
-      "temperatura_c": 29.5,
+      "temperatura_c": 30.3,
       "chuva_mm": 0.0,
-      "vento_kmh": 10.8,
+      "vento_kmh": 10.4,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BA-093 / BA-099",
-      "resumo_cartao_cidade": "Fluxo industrial intenso, sem intercorrências."
+      "resumo_cartao_cidade": "Tráfego industrial intenso, sem bloqueios."
     },
     {
       "cidade": "Alagoinhas",
@@ -176,12 +176,12 @@
       "territorio_identidade": "Litoral Norte e Agreste Baiano",
       "latitude": -12.1336,
       "longitude": -38.4192,
-      "temperatura_c": 28.8,
+      "temperatura_c": 30.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.3,
+      "vento_kmh": 8.1,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BR-110",
-      "resumo_cartao_cidade": "Tráfego fluido, condições operacionais normais."
+      "resumo_cartao_cidade": "Condições favoráveis para transporte de carga."
     },
     {
       "cidade": "Santo Antônio de Jesus",
@@ -189,12 +189,12 @@
       "territorio_identidade": "Recôncavo",
       "latitude": -12.9689,
       "longitude": -39.2614,
-      "temperatura_c": 27.4,
+      "temperatura_c": 28.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 10.6,
+      "vento_kmh": 7.3,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BA-046",
-      "resumo_cartao_cidade": "Movimentação comercial intensa, tráfego normal."
+      "resumo_cartao_cidade": "Tráfego local dentro da normalidade."
     },
     {
       "cidade": "Jequié",
@@ -202,12 +202,12 @@
       "territorio_identidade": "Médio Rio de Contas",
       "latitude": -13.8578,
       "longitude": -40.0836,
-      "temperatura_c": 28.7,
+      "temperatura_c": 30.6,
       "chuva_mm": 0.0,
-      "vento_kmh": 5.9,
+      "vento_kmh": 6.4,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-116 / BR-330",
-      "resumo_cartao_cidade": "Tráfego intenso na BR-116, sem bloqueios."
+      "resumo_cartao_cidade": "Fluxo constante, sem incidentes reportados."
     },
     {
       "cidade": "Itabuna",
@@ -215,12 +215,12 @@
       "territorio_identidade": "Litoral Sul (Costa do Cacau)",
       "latitude": -14.7876,
       "longitude": -39.2781,
-      "temperatura_c": 27.9,
-      "chuva_mm": 0.1,
-      "vento_kmh": 7.5,
-      "nivel_risco": "Atenção",
+      "temperatura_c": 29.4,
+      "chuva_mm": 0.0,
+      "vento_kmh": 7.7,
+      "nivel_risco": "Normal",
       "rodovia_eixo": "BR-101 / BR-415",
-      "resumo_cartao_cidade": "Pista úmida, atenção em curvas sinuosas."
+      "resumo_cartao_cidade": "Tráfego urbano e rodoviário fluido."
     },
     {
       "cidade": "Eunápolis",
@@ -228,12 +228,12 @@
       "territorio_identidade": "Costa do Descobrimento",
       "latitude": -16.3716,
       "longitude": -39.5821,
-      "temperatura_c": 27.9,
-      "chuva_mm": 0.0,
-      "vento_kmh": 6.9,
-      "nivel_risco": "Normal",
+      "temperatura_c": 29.5,
+      "chuva_mm": 0.1,
+      "vento_kmh": 5.1,
+      "nivel_risco": "Atenção",
       "rodovia_eixo": "BR-101 / BR-367",
-      "resumo_cartao_cidade": "Fluxo rodoviário normal, sem incidentes."
+      "resumo_cartao_cidade": "Pista levemente úmida, atenção redobrada."
     },
     {
       "cidade": "Luís Eduardo Magalhães",
@@ -241,12 +241,12 @@
       "territorio_identidade": "Bacia do Rio Grande",
       "latitude": -12.0967,
       "longitude": -45.7867,
-      "temperatura_c": 27.8,
+      "temperatura_c": 29.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 8.9,
+      "vento_kmh": 10.4,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-242 / BR-020",
-      "resumo_cartao_cidade": "Tráfego de escoamento agrícola intenso, normal."
+      "resumo_cartao_cidade": "Logística de grãos operando normalmente."
     },
     {
       "cidade": "Guanambi",
@@ -254,12 +254,12 @@
       "territorio_identidade": "Sertão Produtivo",
       "latitude": -14.2233,
       "longitude": -42.7814,
-      "temperatura_c": 28.0,
+      "temperatura_c": 29.3,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.6,
+      "vento_kmh": 11.9,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-030 / BR-122",
-      "resumo_cartao_cidade": "Condições climáticas estáveis, tráfego normal."
+      "resumo_cartao_cidade": "Condições climáticas estáveis para tráfego."
     },
     {
       "cidade": "Jacobina",
@@ -267,12 +267,12 @@
       "territorio_identidade": "Piemonte da Diamantina",
       "latitude": -11.1806,
       "longitude": -40.5183,
-      "temperatura_c": 25.5,
+      "temperatura_c": 27.5,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.5,
+      "vento_kmh": 10.3,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-324",
-      "resumo_cartao_cidade": "Tráfego moderado, sem intercorrências."
+      "resumo_cartao_cidade": "Tráfego seguro, sem intercorrências."
     },
     {
       "cidade": "Senhor do Bonfim",
@@ -280,12 +280,12 @@
       "territorio_identidade": "Piemonte Norte do Itapicuru",
       "latitude": -10.4614,
       "longitude": -40.1894,
-      "temperatura_c": 26.2,
+      "temperatura_c": 28.1,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.4,
+      "vento_kmh": 10.9,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-407",
-      "resumo_cartao_cidade": "Fluxo rodoviário estável, clima favorável."
+      "resumo_cartao_cidade": "Fluxo rodoviário estável."
     },
     {
       "cidade": "Irecê",
@@ -293,12 +293,12 @@
       "territorio_identidade": "Irecê",
       "latitude": -11.3042,
       "longitude": -41.8558,
-      "temperatura_c": 27.0,
+      "temperatura_c": 29.7,
       "chuva_mm": 0.0,
-      "vento_kmh": 12.4,
+      "vento_kmh": 11.5,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BA-052",
-      "resumo_cartao_cidade": "Tráfego normal na BA-052, sem incidentes."
+      "resumo_cartao_cidade": "Estrada do Feijão com tráfego livre."
     },
     {
       "cidade": "Paulo Afonso",
@@ -306,12 +306,12 @@
       "territorio_identidade": "Itaparica",
       "latitude": -9.4061,
       "longitude": -38.2219,
-      "temperatura_c": 28.8,
+      "temperatura_c": 30.8,
       "chuva_mm": 0.0,
-      "vento_kmh": 11.3,
+      "vento_kmh": 11.0,
       "nivel_risco": "Normal",
       "rodovia_eixo": "BR-110 / BA-210",
-      "resumo_cartao_cidade": "Condições operacionais normais, tráfego fluido."
+      "resumo_cartao_cidade": "Condições operacionais normais."
     }
   ],
   "detalhamento_rodovias": [
@@ -321,53 +321,53 @@
       "trecho_cidade": "Salvador - Feira de Santana",
       "categoria": "Tráfego Intenso",
       "severidade": "Média",
-      "situacao_detalhada": "Fluxo de veículos pesados acima da média no horário comercial.",
+      "situacao_detalhada": "Fluxo elevado de veículos pesados e leves na saída da capital.",
       "diretriz_motorista": "Manter distância de segurança e atenção a frenagens bruscas."
     },
     {
       "rodovia": "BR-116",
-      "territorio_identidade": "Sudoeste Baiano",
-      "trecho_cidade": "Vitória da Conquista",
+      "territorio_identidade": "Portal do Sertão",
+      "trecho_cidade": "Feira de Santana - Serrinha",
       "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Movimentação intensa de carga, sem bloqueios.",
-      "diretriz_motorista": "Respeitar limites de velocidade e sinalização."
+      "situacao_detalhada": "Movimentação constante de carga entre polos regionais.",
+      "diretriz_motorista": "Respeitar limites de velocidade no trecho urbano."
     },
     {
       "rodovia": "BR-101",
       "territorio_identidade": "Extremo Sul",
-      "trecho_cidade": "Teixeira de Freitas",
-      "categoria": "Tráfego Intenso",
+      "trecho_cidade": "Teixeira de Freitas - Eunápolis",
+      "categoria": "Clima",
       "severidade": "Baixa",
-      "situacao_detalhada": "Tráfego de escoamento de celulose e madeira.",
-      "diretriz_motorista": "Atenção redobrada em cruzamentos urbanos."
+      "situacao_detalhada": "Pista com umidade residual, risco de aquaplanagem em curvas.",
+      "diretriz_motorista": "Reduzir velocidade em trechos sinuosos."
     },
     {
       "rodovia": "BR-242",
       "territorio_identidade": "Bacia do Rio Grande",
       "trecho_cidade": "Barreiras - LEM",
       "categoria": "Tráfego Intenso",
-      "severidade": "Baixa",
-      "situacao_detalhada": "Fluxo constante de veículos de carga agrícola.",
-      "diretriz_motorista": "Priorizar ultrapassagens seguras."
+      "severidade": "Média",
+      "situacao_detalhada": "Intenso fluxo de caminhões bitrem para escoamento de grãos.",
+      "diretriz_motorista": "Evitar ultrapassagens em locais de pouca visibilidade."
     },
     {
       "rodovia": "BR-407",
       "territorio_identidade": "Sertão do São Francisco",
-      "trecho_cidade": "Juazeiro",
+      "trecho_cidade": "Juazeiro - Senhor do Bonfim",
       "categoria": "Clima",
       "severidade": "Média",
-      "situacao_detalhada": "Ventos laterais fortes afetando estabilidade de veículos altos.",
-      "diretriz_motorista": "Reduzir velocidade e manter as duas mãos no volante."
+      "situacao_detalhada": "Calor extremo afetando a pavimentação e visibilidade.",
+      "diretriz_motorista": "Monitorar temperatura dos pneus e realizar paradas de descanso."
     },
     {
       "rodovia": "BR-367",
       "territorio_identidade": "Costa do Descobrimento",
-      "trecho_cidade": "Porto Seguro",
-      "categoria": "Clima",
-      "severidade": "Média",
-      "situacao_detalhada": "Pista úmida devido a chuvas isoladas.",
-      "diretriz_motorista": "Aumentar distância de frenagem."
+      "trecho_cidade": "Porto Seguro - Eunápolis",
+      "categoria": "Tráfego Intenso",
+      "severidade": "Baixa",
+      "situacao_detalhada": "Fluxo misto de veículos turísticos e carga.",
+      "diretriz_motorista": "Atenção redobrada com veículos de passeio."
     },
     {
       "rodovia": "BR-349",
@@ -375,8 +375,8 @@
       "trecho_cidade": "Bom Jesus da Lapa",
       "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Tráfego local dentro da normalidade.",
-      "diretriz_motorista": "Manter atenção a pedestres e animais na pista."
+      "situacao_detalhada": "Tráfego regional sem interrupções.",
+      "diretriz_motorista": "Manter atenção à sinalização local."
     },
     {
       "rodovia": "BR-030",
@@ -384,8 +384,8 @@
       "trecho_cidade": "Guanambi",
       "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Fluxo normal de veículos de passeio e carga.",
-      "diretriz_motorista": "Seguir sinalização de trânsito."
+      "situacao_detalhada": "Fluxo normal de veículos de carga.",
+      "diretriz_motorista": "Manter velocidade constante."
     },
     {
       "rodovia": "BR-110",
@@ -393,17 +393,17 @@
       "trecho_cidade": "Paulo Afonso",
       "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Tráfego estável, sem intercorrências.",
-      "diretriz_motorista": "Atenção a curvas sinuosas no trecho."
+      "situacao_detalhada": "Operação normal na região do complexo hidrelétrico.",
+      "diretriz_motorista": "Atenção a pedestres em áreas urbanas."
     },
     {
       "rodovia": "BA-001",
       "territorio_identidade": "Costa do Dendê",
       "trecho_cidade": "Valença",
-      "categoria": "Tráfego Intenso",
-      "severidade": "Baixa",
-      "situacao_detalhada": "Movimentação turística e de carga local.",
-      "diretriz_motorista": "Atenção a ciclistas e pedestres."
+      "categoria": "Clima",
+      "severidade": "Média",
+      "situacao_detalhada": "Chuva leve causando pista escorregadia.",
+      "diretriz_motorista": "Aumentar distância entre veículos."
     },
     {
       "rodovia": "BA-052",
@@ -411,8 +411,8 @@
       "trecho_cidade": "Irecê",
       "categoria": "Tráfego Intenso",
       "severidade": "Baixa",
-      "situacao_detalhada": "Fluxo normal de escoamento regional.",
-      "diretriz_motorista": "Manter velocidade constante."
+      "situacao_detalhada": "Estrada do Feijão com fluxo livre.",
+      "diretriz_motorista": "Manter atenção aos limites de velocidade."
     },
     {
       "rodovia": "BA-093",
@@ -420,17 +420,26 @@
       "trecho_cidade": "Camaçari",
       "categoria": "Tráfego Intenso",
       "severidade": "Média",
-      "situacao_detalhada": "Fluxo industrial intenso, tráfego pesado.",
-      "diretriz_motorista": "Atenção a saídas de caminhões de polos industriais."
+      "situacao_detalhada": "Fluxo industrial intenso no polo petroquímico.",
+      "diretriz_motorista": "Atenção a manobras de veículos pesados."
     },
     {
       "rodovia": "BA-099",
       "territorio_identidade": "Metropolitano de Salvador",
-      "trecho_cidade": "Salvador - Litoral Norte",
+      "trecho_cidade": "Salvador - Camaçari",
       "categoria": "Tráfego Intenso",
-      "severidade": "Baixa",
-      "situacao_detalhada": "Fluxo de veículos leves e de serviço.",
-      "diretriz_motorista": "Respeitar limites de velocidade."
+      "severidade": "Média",
+      "situacao_detalhada": "Tráfego intenso na Linha Verde.",
+      "diretriz_motorista": "Respeitar sinalização de velocidade."
+    },
+    {
+      "rodovia": "BR-116",
+      "territorio_identidade": "Sudoeste Baiano",
+      "trecho_cidade": "Vitória da Conquista",
+      "categoria": "Tráfego Intenso",
+      "severidade": "Média",
+      "situacao_detalhada": "Fluxo intenso na serra do Marçal/BR-116.",
+      "diretriz_motorista": "Utilizar freio motor em descidas."
     }
   ]
 }
